@@ -1,4 +1,4 @@
-# swrl_labeling_tool
+# Swrl_Labeling_Tool
 
 ## Project setup
 ```
